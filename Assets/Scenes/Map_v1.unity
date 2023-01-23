@@ -5098,7 +5098,7 @@ Camera:
   m_GameObject: {fileID: 417628439}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 3
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -5117,7 +5117,7 @@ Camera:
   field of view: 60
   orthographic: 0
   orthographic size: 5
-  m_Depth: 0
+  m_Depth: 11
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 8
@@ -29409,13 +29409,49 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8445017399071687165, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8445399717682236231, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8445437453440823503, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8445491686534552483, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8445627414685792179, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
       propertyPath: m_Name
       value: Rifle_06
       objectReference: {fileID: 0}
     - target: {fileID: 8445627414685792179, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8445627414685792179, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8445646587037747613, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8446308150277052831, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8446319491504949047, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8446415462109950555, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8547166254865534519, guid: 8ea06a6d63886514ea2b143719251ee2, type: 3}
       propertyPath: muzzle
@@ -29571,9 +29607,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4714207716865148493, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4714305609044230037, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4714465708204212307, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4714523104428714509, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4714617666049921101, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4714633173951368339, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
       propertyPath: m_Name
       value: Heavy_08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4714633173951368339, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4714691064125306135, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715142301622399987, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9124584367738731487, guid: d6fe1a2360f50de4a9256a9f55bd782f, type: 3}
       propertyPath: muzzle
