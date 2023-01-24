@@ -6,7 +6,6 @@ using static WaveSpawner;
 
 public class WaveSpawner : MonoBehaviour
 {
-    
     public enum SpawnState { SPAWNING, WAITING,COUNTING};
 
     [System.Serializable]
@@ -123,6 +122,4 @@ void Start()
         Transform _sp = spawnPoints[Random.Range(0, spawnPoints.Length)];
         Instantiate(_enemy, _sp.position, _sp.rotation);
     }
-
-  
 }
